@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoogySocks&layout=compact&theme=nord&langs_count=6&custom_title=top-languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoogySocks&theme=nord&langs_count=6&custom_title=top-languages"/>
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnoogySocks&theme=nord"/>
 </p>
