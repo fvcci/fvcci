@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoogySocks&layout=compact&theme=nord&langs_count=6&custom_title=Languages&card_height=45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoogySocks&layout=compact&theme=nord&langs_count=6&custom_title=Languages&card_height=145%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SnoogySocks&count_private=true&show_icons=true&theme=nord">
 </p>
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
