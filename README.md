@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoogySocks&layout=compact&theme=nord&langs_count=6"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnoogySocks&theme=nord&show_icons=true&hide=issues"/>
 </p>
-###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
+### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 
 <!--
 **SnoogySocks/SnoogySocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
