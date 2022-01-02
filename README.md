@@ -6,7 +6,6 @@
 </p> -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoogySocks&layout=compact&theme=nord&langs_count=6&custom_title=top-languages&card_width=255"/>
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SnoogySocks&theme=nord&hide=issues"/>
 </p>
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
