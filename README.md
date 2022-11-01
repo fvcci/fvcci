@@ -8,7 +8,7 @@
   <img alt="GitHub Metrics" src="/github-metrics.svg" align="left" width="45%"/>
   <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="45%"/>
 </div>
-
+\\
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
 
 <!--
