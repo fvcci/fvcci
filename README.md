@@ -10,9 +10,7 @@
   <img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" width="auto"/>
 </div>
 
-<div>
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
-</div>
 
 <!--
 **fvcci/fvcci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
