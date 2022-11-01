@@ -4,13 +4,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fvcci&theme=nord&show_icons=true&hide=issues"/>
 </p>
 
-<div style="display: flex;">
+<div style="display: flex">
   <img alt="GitHub Metrics" src="/github-metrics.svg" align="left" width="auto"/>
   <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="auto"/>
 </div>
 
-<br>
+<div>
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)
+</div>
 
 <!--
 **fvcci/fvcci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
