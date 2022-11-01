@@ -4,9 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fvcci&theme=nord&show_icons=true&hide=issues"/>
 </p>
 
-<div style="display: flex">
-  <img alt="GitHub Metrics" src="/github-metrics.svg" align="left" width="auto"/>
-  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg" align="right" width="auto"/>
+<div align="center">
+  <img alt="GitHub Metrics" src="/github-metrics.svg" width="auto"/>
+  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg"width="auto"/>
+  <img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" width="auto"/>
 </div>
 
 <div>
