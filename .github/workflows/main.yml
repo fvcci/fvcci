@@ -15,7 +15,7 @@ jobs:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
-          plugin_leetcode_user: "krish120003"
+          plugin_leetcode_user: "fvcci"
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
   
