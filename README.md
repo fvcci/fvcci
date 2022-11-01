@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-  <img alt="GitHub Metrics" src="/github-metrics.svg" width="auto"/>
-  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg"width="auto"/>
-  <img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" width="auto"/>
+  <img alt="GitHub Metrics" src="/github-metrics.svg" width="33%"/>
+  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg"width="33%"/>
+  <img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" width="33%"/>
 </div>
 
 ###### These cool widgets are [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [metrics](https://github.com/lowlighter/metrics) by [anuraghazra](https://github.com/anuraghazra) and [lowlighter](https://github.com/lowlighter)
