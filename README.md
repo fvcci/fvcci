@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  <img alt="GitHub Metrics" src="/github-metrics.svg" width="40%"/>
-  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg"width="40%"/>
+  <img alt="GitHub Metrics" src="/github-metrics.svg" width="50%"/>
+  <img alt="Commit Metrics" src="/metrics.plugin.isocalendar.fullyear.svg"width="50%"/>
 <!--   <img alt="LeetCode Metrics" src="/metrics.plugin.leetcode.svg" width="33%"/> -->
 </div>
 
